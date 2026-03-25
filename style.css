@@ -17,7 +17,7 @@
       --accent-soft: #e9d5ff;
       --border: #e2e8f0;
       --shadow: 0 20px 30px -10px rgba(0,0,0,0.05), 0 8px 15px rgba(0,0,0,0.03);
-      --nav-bg: rgba(255,255,255,0.7);
+      --nav-bg: rgba(237, 236, 246, 0.962);
       --card-glow: none;
       --icon-filter: none;
       --skill-badge-bg: rgba(168, 85, 247, 0.08);
@@ -36,7 +36,7 @@
       --accent-soft: #2e1a4a;
       --border: #2d3a5e;
       --shadow: 0 25px 35px -12px rgba(0,0,0,0.7);
-      --nav-bg: rgba(15, 23, 42, 0.8);
+      --nav-bg: rgba(11, 21, 45, 0.997);
       --card-glow: 0 0 0 1px #2d3a5e inset;
       --icon-filter: brightness(0.9);
       --skill-badge-bg: rgba(192, 132, 252, 0.12);
